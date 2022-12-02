@@ -1,0 +1,5 @@
+
+[workspace]
+members = [
+  "puzzles/day-1-calorie-counting/"
+]
